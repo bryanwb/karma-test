@@ -1,0 +1,7 @@
+{
+    "name": "karma-test",
+    "description": "A dummy package to test creating narwhal packages",
+    "keywords": ["javascript", "dummy"],
+    "author": "Bryan Berry (http://www.renaissancegeek.org/)",
+    "main": "lib/karma-test.js"
+}
